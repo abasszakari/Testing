@@ -2,7 +2,7 @@ public class Ex1{
 	public static void main(String[] args) {
 		
 		int i = 0;
-		System.out.println(i);
-		System.out.println(2+2);
+		
+		System.out.println("My name is Abass");
 	}
 }
